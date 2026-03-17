@@ -150,11 +150,9 @@
           "name": "India 🇮🇳",
           "city": "Mumbai (Primary)",
           "ISO": "in",
-          "package": "premium"
-        }
-      },
-      "locations": {
-        "2": {
+          "package": "default"
+        },
+         "2": {
           "name": "India 🇮🇳",
           "city": "New Delhi",
           "ISO": "in",
