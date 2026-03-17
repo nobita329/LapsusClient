@@ -144,7 +144,15 @@
                     }
                 }
             },
-            "locations": {},
+
+      "locations": {
+        "1": {
+          "name": "Germany",
+          "city": "Falkenstein",
+          "ISO": "de",
+          "package": null
+        }
+      },
             "eggs": {
                 "paper": {
                     "display": "Minecraft Java - Paper",
