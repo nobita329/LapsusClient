@@ -24,9 +24,9 @@
         "servers": "3"
     },
     "profile_json": true,
-    "music": false,
-    "auto_update": false,
-    "telemetry": true,
+    "music": false, 
+    "auto_update": true,
+    "telemetry": false,
     "news": {
         "new1_type": "Recommendation",
         "new1_title": "Try Lapsus Launcher",
@@ -147,10 +147,18 @@
 
       "locations": {
         "1": {
-          "name": "Germany",
-          "city": "Falkenstein",
-          "ISO": "de",
-          "package": null
+          "name": "India 🇮🇳",
+          "city": "Mumbai (Primary)",
+          "ISO": "in",
+          "package": "premium"
+        }
+      },
+      "locations": {
+        "2": {
+          "name": "India 🇮🇳",
+          "city": "New Delhi",
+          "ISO": "in",
+          "package": "premium"
         }
       },
             "eggs": {
